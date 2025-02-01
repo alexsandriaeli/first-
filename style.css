@@ -2,7 +2,7 @@ body {
     background-color: #FFC0CB;
 }
 a{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
     color: #C154C1;
 }
 h1{ 
@@ -10,11 +10,11 @@ h1{
 }
 p{
  backgroud-color: E6E6FA;
- color: #000000
+ color: #000000;
 }
 img{
-   width: 30%
+   width: 30%;
 }
 video{
-   width: 30%
+   width: 30%;
 }
